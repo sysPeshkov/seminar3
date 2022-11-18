@@ -77,4 +77,7 @@
     git checkout id_commit
 
 
+## Работа с изображениями
 
+Добавляем изображение
+![Эмблема Markdown-mark](Markdown-mark.png)
