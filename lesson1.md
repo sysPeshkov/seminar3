@@ -112,3 +112,6 @@
     git branch -d <name_branch>
 где name_branch имя ветки
 
+## Удаленные репозитории
+
+
